@@ -4,7 +4,7 @@ Thank you for your interest in contributing to the Clean Code Cookbook! We appre
 
 ## How to Contribute
 1. **Fork the repository**: Click the fork button at the top right to create a copy in your GitHub account.
-2. **Clone your fork**: Use `git clone https://github.com/your-username/clean-code-cookbook.git` to clone your forked repository to your local machine.
+2. **Clone your fork**: Use `git clone https://github.com/YOUR-USERNAME/clean-code-cookbook.git` to clone your forked repository to your local machine.
 3. **Create a new branch**: Create a feature branch for your changes with `git checkout -b feature/your-feature-name` (replace `your-feature-name` with a descriptive name).
 4. **Make your changes**: Edit the files as needed to enhance the project.
 5. **Run tests**: Ensure all tests pass before committing your changes.
