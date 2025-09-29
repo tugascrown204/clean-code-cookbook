@@ -3,21 +3,21 @@
 Thank you for your interest in contributing to the Clean Code Cookbook! We appreciate your help in making this project better.
 
 ## How to Contribute
-1. **Fork the repository**: Click the fork button at the top right of the page to create a copy of this repository in your GitHub account.
-2. **Clone your fork**: Clone your forked repository to your local machine using `git clone https://github.com/your-username/clean-code-cookbook.git`.
-3. **Create a new branch**: Create a feature branch for your changes using `git checkout -b feature/your-feature-name` (replace `your-feature-name` with a descriptive name for your feature).
-4. **Make your changes**: Edit the files and make your changes as needed to enhance the project.
-5. **Run tests**: Ensure that all tests pass before committing your changes.
-6. **Commit your changes**: Commit your changes with clear and concise commit messages that describe your modifications.
-7. **Push your changes**: Push your changes to your fork using `git push origin feature/your-feature-name`.
-8. **Create a pull request**: Go to the original repository and submit a pull request to the main branch. Be sure to provide a detailed description of your changes in the pull request message and how they improve the project.
+1. **Fork the repository**: Click the fork button at the top right to create a copy in your GitHub account.
+2. **Clone your fork**: Use `git clone https://github.com/your-username/clean-code-cookbook.git` to clone your forked repository to your local machine.
+3. **Create a new branch**: Create a feature branch for your changes with `git checkout -b feature/your-feature-name` (replace `your-feature-name` with a descriptive name).
+4. **Make your changes**: Edit the files as needed to enhance the project.
+5. **Run tests**: Ensure all tests pass before committing your changes.
+6. **Commit your changes**: Use clear and concise commit messages to describe your modifications.
+7. **Push your changes**: Push your changes with `git push origin feature/your-feature-name`.
+8. **Create a pull request**: Go to the original repository and submit a pull request to the main branch. Provide a detailed description of your changes and their improvements.
 
 ## Guidelines
-- Please ensure your code adheres to the principles outlined in the Clean Code Cookbook.
-- Update the documentation if your changes introduce new functionality.
-- Write clear and descriptive commit messages that explain the intent of your changes.
+- Ensure your code adheres to the principles in the Clean Code Cookbook.
+- Update documentation if your changes introduce new functionality.
+- Write clear commit messages explaining the intent of your changes.
 
 ## Questions?
-If you have any questions or need assistance, feel free to open an issue in the repository, and we will be happy to help!
+If you have questions or need assistance, feel free to open an issue in the repository. We're happy to help!
 
 Happy coding!
