@@ -10,7 +10,7 @@ Thank you for your interest in contributing to the Clean Code Cookbook! We appre
 5. **Run tests**: Ensure that all tests pass before committing your changes.
 6. **Commit your changes**: Commit your changes with clear and concise commit messages that describe your modifications.
 7. **Push your changes**: Push your changes to your fork using `git push origin feature/your-feature-name`.
-8. **Create a pull request**: Go to the original repository and submit a pull request to the main branch, providing details about your changes.
+8. **Create a pull request**: Go to the original repository and submit a pull request to the main branch. Be sure to provide a detailed description of your changes in the pull request message and how they improve the project.
 
 ## Guidelines
 - Please ensure your code adheres to the principles outlined in the Clean Code Cookbook.
